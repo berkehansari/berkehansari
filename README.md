@@ -2,6 +2,28 @@
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=Hi!%20%F0%9F%91%8B&fontSize=42&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=blink&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
 </div>
 
+<div align="center">
+  <!-- Deprem Alarmı Proje Kartı -->
+  <a href="https://github.com/berkehansari/Deprem-Alarmi-Showcase">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=berkehansari&repo=Deprem-Alarmi-Showcase&theme=merko" alt="Deprem Alarmı">
+  </a>
+  
+  <!-- Unity Procedural Motion Proje Kartı -->
+  <a href="https://github.com/berkehansari/unity-procedural-motion">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=berkehansari&repo=unity-procedural-motion&theme=merko" alt="Unity Procedural Motion">
+  </a>
+
+  <!-- Unity Procedural Motion Proje Kartı -->
+  <a href="https://github.com/berkehansari/Asset-Management-System">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=berkehansari&repo=Asset-Management-System&theme=merko" alt="Asset Management System">
+  </a>
+
+  <!-- Unity Procedural Motion Proje Kartı -->
+  <a href="https://github.com/berkehansari/depression-detection-bilstm">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=berkehansari&repo=depression-detection-bilstm&theme=merko" alt="Depression Detection BiLSTM">
+  </a>
+</div>
+
 ###
 
 <h5 data-importer="text" align="left">Computer Engineering student and software developer with a strong foundation in Object-Oriented Programming (OOP) and system architecture. Experienced in designing and scaling high-performance applications using Java, C#, and Python. Proven track record of managing end-to-end software lifecycles, processing sensor data, and creating robust data-driven solutions. Passionate about software engineering, simulation mechanics, and building scalable systems across diverse industries.</h5>
