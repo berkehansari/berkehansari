@@ -55,22 +55,22 @@
 
 <div align="center">
   <a href="https://github.com/berkehansari/Deprem-Alarmi-Showcase">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=berkehansari&repo=Deprem-Alarmi-Showcase&theme=merko" alt="Deprem Alarmı">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=berkehansari&repo=Deprem-Alarmi-Showcase&theme=apprentice" alt="Deprem Alarmı">
   </a>
   
 
   <a href="https://github.com/berkehansari/unity-procedural-motion">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=berkehansari&repo=unity-procedural-motion&theme=merko" alt="Unity Procedural Motion">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=berkehansari&repo=unity-procedural-motion&theme=apprentice" alt="Unity Procedural Motion">
   </a>
 
 
   <a href="https://github.com/berkehansari/Asset-Management-System">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=berkehansari&repo=Asset-Management-System&theme=merko" alt="Asset Management System">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=berkehansari&repo=Asset-Management-System&theme=apprentice" alt="Asset Management System">
   </a>
 
 
   <a href="https://github.com/berkehansari/depression-detection-bilstm">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=berkehansari&repo=depression-detection-bilstm&theme=merko" alt="Depression Detection BiLSTM">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=berkehansari&repo=depression-detection-bilstm&theme=apprentice" alt="Depression Detection BiLSTM">
   </a>
 </div>
 
